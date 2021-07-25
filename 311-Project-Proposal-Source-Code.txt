@@ -1,0 +1,105 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{center}
+
+    \textbf{\huge{Project Proposal}} \\[10pt]
+    \huge{Database management system} \\[10pt]
+    \huge{CSE311L.5} \\[10pt]
+    
+\end{center}
+
+\begin{center}
+    \includegraphics{law.png} \\
+\end{center}
+
+\begin{center}
+    \huge{Lawyer Consultation} \\[40pt]
+\end{center}
+
+\begin{flushleft}
+    \large\textbf{Group members:}
+    \begin{itemize}
+        \item Md.Abdul Wahab (1831168042)
+        \item Zaqa Zeeshan Saif (1931792642)
+        \item Maruf Ul Islam (1831617642) \\[30pt]
+    \end{itemize} 
+\end{flushleft}
+
+
+\begin{flushleft}
+\large\textbf{Submitted to:} \\[5pt]
+    Nazmul Alam Dipto \\
+    Lab Instructor \\
+    Sec: 05 \\[20pt]
+\end{flushleft}
+
+\begin{flushleft}
+    \large\textbf{Introduction:} \\[5pt]
+    Bangladesh one of the most populated countries and till date there are over 40 lacs cases which are pending in the court of Bangladesh. This means there is a clear barrier to the access of justice. As it is the fundamental right of every citizen to have access to justice. The barrier is subjective barrier as the physical court exists, due to overwhelming of cases, it takes years to solve the case. In this regard to help the underprivileged people of the country and give them the medium of access to justice, the digitalization of certain portion of the legal system as well as giving them the scope of free legal consultation is very important. This is where our website “The Legal Nexus” would play a major role. \\[30pt]
+\end{flushleft}
+
+\begin{flushleft}
+    \large\textbf{Objective: }
+    \begin{itemize}
+        \item Free legal consultation to all the citizens of the country 
+        \item Easier access to justice; which is both cost efficient and less time consuming.
+        \item Creating employment for the fresh law graduates and lawyers
+        \item Easier access to justice; which is both cost efficient and less time consuming.
+        \item A greater scope for digitalizing the legal system of the country 
+        \item Scope and the ability to provide legal aid and spread legal knowledge across the country   \\[30pt]
+    \end{itemize} 
+\end{flushleft}
+
+\begin{flushleft}
+    \large\textbf{Target Customers:}
+    \begin{itemize}
+        \item Lawyers: Recent LLB Graduates 
+        \item Citizens: who are looking for legal support \\[100pt]
+    \end{itemize} 
+\end{flushleft}
+
+\begin{flushleft}
+    \large\textbf{Value Proposition:} \\[5pt]
+    This website will reduce the time and cost of visiting courts and filing such cases and at the same time provide free legal consultation and would aim to digitalize the legal system of the country. \\[30pt]
+\end{flushleft}
+
+\begin{flushleft}
+    \large\textbf{Features:}
+    \begin{itemize}
+        \item Home page
+        \item About us
+        \item Our services
+        \item Our clients
+        \item Contact us
+        \item Report problems \\[30pt]
+    \end{itemize} 
+\end{flushleft}
+
+\begin{flushleft}
+    \large\textbf{Technologies (Tools/ languages):}
+    \begin{itemize}
+        \item React
+        \item HTML \& CSS
+        \item MySQL
+        \item NodeJS \\[80pt]
+    \end{itemize} 
+\end{flushleft}
+
+\begin{flushleft}
+    \large\textbf{Submission Date:}   24th July 2021(11.59 pm.)
+\end{flushleft}
+
+
+
+
+
+
+
+
+
+
+\end{document}
